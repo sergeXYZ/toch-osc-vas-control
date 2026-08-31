@@ -23,3 +23,9 @@ __pycache__/
 *.pyc
 .coverage
 .pytest_cache/
+
+# Third-party manuals (not redistributable)
+touchosc-manual.pdf
+
+# Reference / unrelated assets
+Behringer X32_v0.0.1.gt
